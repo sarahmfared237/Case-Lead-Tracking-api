@@ -1,0 +1,32 @@
+[
+  {
+    "leadId": 1,
+    "name": "John Doe",
+    "email": "Doe123@gmail.com",
+    "source": "website"
+  },
+  {
+    "leadId": 2,
+    "name": "hi bye",
+    "email": "Hi@gmail.com",
+    "source": "website"
+  },
+  {
+    "leadId": 3,
+    "name": "hi hi",
+    "email": "HiHi@gmail.com",
+    "source": "website"
+  },
+  {
+    "leadId": 4,
+    "name": "hony Doe",
+    "email": "hony@example.com",
+    "source": "web"
+  },
+  {
+    "leadId": 5,
+    "name": "Sarah Soliman",
+    "email": "SArah@gmail.com",
+    "source": "mobile"
+  }
+]

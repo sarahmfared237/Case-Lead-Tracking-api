@@ -1,0 +1,32 @@
+[
+  {
+    "caseId": 1,
+    "leadId": 2,
+    "status": "open",
+    "createdAt": "2025-12-01T23:34:06.734Z"
+  },
+  {
+    "caseId": 2,
+    "leadId": 1,
+    "status": "closed",
+    "createdAt": "2025-12-01T23:39:42.886Z"
+  },
+  {
+    "caseId": 3,
+    "leadId": 3,
+    "status": "open",
+    "createdAt": "2025-12-01T23:39:51.338Z"
+  },
+  {
+    "caseId": 4,
+    "leadId": 4,
+    "status": "closed",
+    "createdAt": "2025-12-01T23:51:09.666Z"
+  },
+  {
+    "caseId": 5,
+    "leadId": 5,
+    "status": "opened",
+    "createdAt": "2025-12-01T23:57:53.003Z"
+  }
+]
