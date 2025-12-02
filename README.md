@@ -1,12 +1,12 @@
-API Test Screenshots (Postman):
+## API Test Screenshots (Postman):
 
-##Create lead (POST /leads/)
+## Create lead (POST /leads/)
 ![create_lead](https://github.com/user-attachments/assets/c3323cbe-0a48-46b7-a35d-d38625118aec)
 
-##List leads (GET/leads/)
+## List leads (GET/leads/)
 ![list_leads](https://github.com/user-attachments/assets/3708ec3d-cdd3-4cb5-8551-23c2a2631e21)
 
-##lead promot to case (POST /cases/)
+## lead promot to case (POST /cases/)
 ![leadpromottocase](https://github.com/user-attachments/assets/a0e17df6-890c-4f88-b379-b3a2da76ee99)
 
 ## update case status (POST /cases/:id)
